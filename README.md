@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlchemanId
+- 👋 Hi, I’m Haikal Lazuardy @AlchemanId
 - 👀 I’m interested in Coding
 - 🌱 I’m currently in Bandung Indonesia
 - 💞️ I’m looking to collaborate on Coding
